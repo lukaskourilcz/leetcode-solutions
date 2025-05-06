@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
