@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
