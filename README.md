@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0067-add-binary) |
 ## String
 |  |
