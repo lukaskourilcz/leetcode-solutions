@@ -51,4 +51,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
