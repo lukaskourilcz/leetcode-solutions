@@ -25,6 +25,7 @@
 | [0006-zigzag-conversion](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
