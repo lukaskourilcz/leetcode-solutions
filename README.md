@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -73,4 +74,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
