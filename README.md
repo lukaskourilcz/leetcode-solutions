@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0013-roman-to-integer](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -105,4 +107,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lukaskourilcz/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
